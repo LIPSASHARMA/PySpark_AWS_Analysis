@@ -17,19 +17,19 @@ The purpose of this analysis is to analyze the Amazon reviews written by members
 Total Vine reviews: 613
 Total non-Vine reviews: 64968
 
-![ScreenShot]()
+![ScreenShot](https://github.com/LIPSASHARMA/PySpark_AWS_Analysis/blob/main/images/vine_vs_non-vine_count.png   )
 
 ## How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 5-star vine reviews: 222
 5-star non-vine reviews: 30543
 
-![ScreenShot]()
+![ScreenShot](https://github.com/LIPSASHARMA/PySpark_AWS_Analysis/blob/main/images/vine_5-star_vs_non-vine_5-star_count.png)
 
 ## What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 Paid 5-star reviews percentage: 36.22 %
 Non-paid 5-star reviews percentage: 47.01 %
 
-![ScreenShot]()
+![ScreenShot](https://github.com/LIPSASHARMA/PySpark_AWS_Analysis/blob/main/images/vine_vs_non-vine_percentage.png)
 
 ## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
